@@ -1,0 +1,14 @@
+el trabajo practico, deberia ser capaz de reproducir cualquier otro archivo de formato B
+tambien dando la posibilidad al usuario de almacenar o no, la cancion reproducida(unicamente las muestras).
+la opcion de color, se debe de tipear lo siguiente: color xy
+
+donde x es el color del fondo e Y el color de las letras, caso que no se quiera cambiar el color
+solo darle a n o N no habria problemas;
+
+en caso de que el usuario ingrese el valor de un cancion que no esta en el archivo,el programa deberia ser 
+capaz de perdirle que ingrese un nuevo valor para reproducir dicha cancion.
+
+libreria usadas:
+
+librerias estandars vistas en clases.
+libreria de audio.
